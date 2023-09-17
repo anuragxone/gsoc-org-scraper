@@ -1,0 +1,681 @@
+Blender Foundation (13 times): 2009, 2010, 2011, 2012, 2013, 2014, 2016, 2017, 2018, 2019, 2020, 2021, 2022
+BRL-CAD (13 times): 2009, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022
+Django Software Foundation (13 times): 2009, 2010, 2011, 2012, 2013, 2014, 2016, 2017, 2018, 2019, 2020, 2021, 2022
+Drupal (11 times): 2009, 2010, 2011, 2012, 2014, 2015, 2016, 2017, 2018, 2019, 2020
+coreboot (10 times): 2009, 2010, 2011, 2013, 2014, 2015, 2016, 2019, 2020, 2022
+Apache Software Foundation (10 times): 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2022
+Apertium (10 times): 2010, 2011, 2012, 2013, 2014, 2017, 2018, 2019, 2020, 2021
+Boost C++ Libraries (9 times): 2009, 2010, 2011, 2013, 2014, 2015, 2017, 2018, 2021
+FFmpeg (8 times): 2009, 2010, 2015, 2016, 2017, 2018, 2021, 2022
+BeagleBoard.org (8 times): 2010, 2013, 2014, 2015, 2016, 2019, 2020, 2022
+Debian Project (8 times): 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2018
+haskell.org (7 times): 2009, 2010, 2011, 2012, 2013, 2014, 2015
+KDE (7 times): 2009, 2010, 2011, 2012, 2013, 2014, 2015
+Nmap Security Scanner (7 times): 2009, 2010, 2011, 2012, 2013, 2014, 2015
+OpenMRS (7 times): 2009, 2010, 2011, 2012, 2013, 2014, 2015
+OSGeo - Open Source Geospatial Foundation (7 times): 2009, 2010, 2011, 2012, 2013, 2014, 2015
+Portland State University (7 times): 2009, 2010, 2011, 2012, 2013, 2014, 2015
+Python Software Foundation (7 times): 2009, 2010, 2011, 2012, 2013, 2014, 2015
+RTEMS Project (7 times): 2009, 2010, 2011, 2012, 2013, 2014, 2015
+Gentoo Foundation (7 times): 2010, 2011, 2012, 2013, 2014, 2016, 2022
+52°North Initiative for Geospatial Open Source Software GmbH (7 times): 2012, 2013, 2014, 2015, 2016, 2017, 2019
+CloudCV (7 times): 2015, 2016, 2017, 2018, 2019, 2020, 2021
+CCExtractor Development (7 times): 2016, 2017, 2018, 2019, 2020, 2021, 2022
+ASCEND (6 times): 2009, 2010, 2011, 2012, 2015, 2016
+Creative Commons (6 times): 2009, 2010, 2012, 2013, 2019, 2020
+Crystal Space (6 times): 2009, 2010, 2011, 2012, 2013, 2014
+GNOME (6 times): 2009, 2010, 2012, 2013, 2014, 2015
+GNU Project (6 times): 2009, 2011, 2012, 2013, 2014, 2015
+Inkscape (6 times): 2009, 2010, 2011, 2012, 2013, 2014
+Melange (6 times): 2009, 2010, 2011, 2012, 2013, 2014
+Mono Project (6 times): 2009, 2011, 2012, 2013, 2014, 2015
+Moodle (6 times): 2009, 2011, 2012, 2013, 2014, 2015
+Samba (6 times): 2009, 2010, 2011, 2012, 2013, 2014
+ScummVM (6 times): 2009, 2010, 2011, 2012, 2013, 2014
+The Honeynet Project (6 times): 2009, 2010, 2011, 2012, 2013, 2015
+The Linux Foundation (6 times): 2009, 2010, 2011, 2012, 2013, 2014
+The ns-3 Network Simulator Project (6 times): 2009, 2010, 2012, 2013, 2014, 2015
+WorldForge (6 times): 2009, 2010, 2011, 2012, 2013, 2014
+Git (6 times): 2010, 2011, 2012, 2014, 2015, 2022
+MetaBrainz Foundation Inc. (6 times): 2010, 2011, 2012, 2013, 2014, 2015
+phpMyAdmin (6 times): 2010, 2011, 2012, 2013, 2014, 2015
+The Eclipse Foundation (6 times): 2010, 2011, 2012, 2013, 2014, 2015
+FOSSASIA (6 times): 2011, 2012, 2014, 2015, 2016, 2018
+FreeBSD (6 times): 2011, 2012, 2013, 2014, 2015, 2016
+CERN-HSF (6 times): 2017, 2018, 2019, 2020, 2021, 2022
+DBpedia (6 times): 2017, 2018, 2019, 2020, 2021, 2022
+Chromium (5 times): 2009, 2010, 2013, 2021, 2022
+Debian (5 times): 2009, 2019, 2020, 2021, 2022
+DragonFly BSD (5 times): 2009, 2010, 2011, 2012, 2013
+Haiku (5 times): 2009, 2010, 2011, 2012, 2014
+LLVM Compiler Infrastructure (5 times): 2009, 2010, 2013, 2014, 2015
+OpenStreetMap (5 times): 2009, 2010, 2011, 2012, 2015
+Plan 9 from Bell Labs (5 times): 2009, 2010, 2011, 2013, 2014
+Plone Foundation (5 times): 2009, 2010, 2011, 2013, 2014
+The MacPorts Project (5 times): 2009, 2010, 2011, 2014, 2015
+Tux4Kids (5 times): 2009, 2010, 2012, 2013, 2015
+TYPO3 Association (5 times): 2009, 2010, 2011, 2013, 2014
+Wikimedia Foundation (5 times): 2009, 2010, 2011, 2012, 2015
+WordPress (5 times): 2009, 2010, 2011, 2013, 2014
+Freenet Project Inc (5 times): 2010, 2011, 2012, 2013, 2014
+Google Open Source Programs Office (5 times): 2010, 2011, 2012, 2013, 2014
+Mozilla (5 times): 2010, 2011, 2012, 2013, 2014
+Sahana Software Foundation (5 times): 2010, 2011, 2012, 2013, 2014
+Computational Science and Engineering at TU Wien (5 times): 2011, 2012, 2013, 2014, 2016
+International Neuroinformatics Coordinating Facility (5 times): 2011, 2012, 2013, 2014, 2015
+LibreOffice (5 times): 2011, 2012, 2013, 2014, 2015
+Liquid Galaxy Project (5 times): 2011, 2012, 2013, 2014, 2015
+Open Source Computer Vision Library (OpenCV) (5 times): 2011, 2012, 2013, 2014, 2015
+Oregon State University Open Source Lab (OSUOSL) (5 times): 2011, 2012, 2013, 2014, 2015
+The Fedora Project (5 times): 2011, 2012, 2013, 2014, 2015
+CERN SFT (5 times): 2012, 2013, 2014, 2015, 2016
+Amahi (5 times): 2014, 2017, 2018, 2019, 2020
+Ceph (5 times): 2014, 2016, 2017, 2021, 2022
+CiviCRM (5 times): 2014, 2015, 2016, 2019, 2020
+Catrobat (5 times): 2016, 2017, 2018, 2019, 2020
+Chapel (5 times): 2016, 2017, 2019, 2020, 2021
+AerospaceResearch.net (5 times): 2017, 2018, 2019, 2020, 2021
+ArduPilot (5 times): 2017, 2018, 2020, 2021, 2022
+Battle for Wesnoth (4 times): 2009, 2010, 2013, 2014
+BlueZ (4 times): 2009, 2010, 2011, 2012
+Eclipse Foundation (4 times): 2009, 2016, 2020, 2022
+Freifunk (4 times): 2009, 2010, 2014, 2016
+GStreamer (4 times): 2009, 2010, 2011, 2012
+MoinMoin Wiki (4 times): 2009, 2010, 2012, 2013
+OpenImageIO (4 times): 2009, 2010, 2011, 2012
+Review Board (4 times): 2009, 2010, 2011, 2012
+Ruby on Rails (4 times): 2009, 2013, 2014, 2015
+Simple DirectMedia Layer (4 times): 2009, 2010, 2011, 2013
+The Perl Foundation (4 times): 2009, 2010, 2011, 2014
+The Wine Project (4 times): 2009, 2010, 2014, 2015
+wxWidgets (4 times): 2009, 2010, 2011, 2014
+Inclusive Design Institute (4 times): 2010, 2012, 2013, 2014
+International GeoGebra Institute (4 times): 2010, 2011, 2012, 2015
+Open Bioinformatics Foundation (4 times): 2010, 2011, 2012, 2014
+R Project for Statistical Computing (4 times): 2010, 2011, 2014, 2015
+Sugar Labs (4 times): 2010, 2013, 2014, 2015
+The Java Pathfinder Team (4 times): 2010, 2011, 2012, 2013
+The NetBSD Foundation (4 times): 2010, 2011, 2012, 2013
+XMPP Standards Foundation (4 times): 2010, 2011, 2012, 2015
+Buildbot (4 times): 2011, 2013, 2014, 2015
+SymPy (4 times): 2011, 2012, 2013, 2014
+X.Org Foundation (4 times): 2011, 2013, 2014, 2015
+GCC - GNU Compiler Collection (4 times): 2012, 2013, 2014, 2015
+JBoss Community (4 times): 2012, 2013, 2014, 2015
+PostgreSQL Project (4 times): 2012, 2013, 2014, 2015
+Sage Mathematical Software System (4 times): 2012, 2013, 2014, 2015
+Scala Team (4 times): 2012, 2013, 2014, 2015
+The Concord Consortium (4 times): 2012, 2013, 2014, 2015
+Clojure (4 times): 2013, 2014, 2015, 2017
+Ganeti (4 times): 2013, 2014, 2015, 2016
+Biomedical Informatics, Emory University (4 times): 2014, 2015, 2016, 2019
+Checkstyle (4 times): 2014, 2017, 2020, 2021
+Copyleft Games (4 times): 2014, 2015, 2016, 2017
+Boston University / XIA (4 times): 2015, 2016, 2017, 2018
+aimacode (4 times): 2016, 2017, 2018, 2019
+cBioPortal for Cancer Genomics (4 times): 2016, 2017, 2019, 2022
+Computational Biology @ University of Nebraska-Lincoln (4 times): 2016, 2017, 2018, 2019
+Checker Framework (4 times): 2017, 2018, 2019, 2020
+Cloud Native Computing Foundation (CNCF) (4 times): 2017, 2018, 2019, 2020
+coala (4 times): 2017, 2018, 2019, 2021
+CGAL Project (4 times): 2018, 2020, 2021, 2022
+CircuitVerse.org (4 times): 2019, 2020, 2021, 2022
+Cuneiform Digital Library Initiative (CDLI) (4 times): 2019, 2020, 2021, 2022
+AbiWord (3 times): 2009, 2010, 2011
+Audacity (3 times): 2009, 2021, 2022
+Etherboot Project (3 times): 2009, 2010, 2011
+GNU Image Manipulation Program (3 times): 2009, 2011, 2013
+LimeSurvey (3 times): 2009, 2010, 2011
+Natural User Interface Group (3 times): 2009, 2011, 2012
+OpenICC (3 times): 2009, 2010, 2012
+Rockbox (3 times): 2009, 2010, 2011
+The Codehaus (3 times): 2009, 2010, 2011
+The Globus Alliance (3 times): 2009, 2010, 2011
+Umit Project (3 times): 2009, 2011, 2012
+VideoLAN (3 times): 2009, 2010, 2011
+XWiki (3 times): 2009, 2011, 2012
+CGAL - Computational Geometry Algorithms Library (3 times): 2010, 2011, 2012
+Drizzle (3 times): 2010, 2011, 2012
+Jikes RVM (3 times): 2010, 2011, 2012
+Kernel.org - the Linux Kernel Organization (3 times): 2010, 2011, 2012
+Catroid Project (3 times): 2011, 2012, 2013
+Code for America (3 times): 2011, 2012, 2013
+freifunk (3 times): 2011, 2012, 2022
+Genome Informatics (3 times): 2011, 2012, 2013
+Gephi Consortium (3 times): 2011, 2012, 2013
+HelenOS group at Department of Distributed and Dependable Systems, Charles University in Prague (3 times): 2011, 2012, 2014
+illumos (3 times): 2011, 2012, 2013
+OpenNMS (3 times): 2011, 2012, 2013
+Parrot Foundation (3 times): 2011, 2012, 2013
+Point Cloud Library (PCL) (3 times): 2011, 2012, 2014
+Processing (3 times): 2011, 2012, 2013
+Xapian Search Engine Library (3 times): 2011, 2012, 2014
+Benetech (3 times): 2012, 2013, 2014
+Mixxx DJ Software (3 times): 2012, 2013, 2014
+National Resource for Network Biology (NRNB) (3 times): 2012, 2013, 2014
+OGDF - Open Graph Drawing Framework (3 times): 2012, 2013, 2014
+Open Lighting Project (3 times): 2012, 2013, 2014
+openSUSE (3 times): 2012, 2013, 2014
+Openwall (3 times): 2012, 2013, 2015
+phpBB Forum Software (3 times): 2012, 2013, 2014
+Pidgin, Finch, and libpurple (3 times): 2012, 2013, 2015
+Raxa (3 times): 2012, 2013, 2014
+Shogun Machine Learning Toolbox (3 times): 2012, 2013, 2014
+Sigmah (3 times): 2012, 2013, 2014
+The Wiselib (3 times): 2012, 2013, 2014
+BEAM Community (3 times): 2013, 2014, 2015
+DBpedia & DBpedia Spotlight (3 times): 2013, 2014, 2015
+GNSS-SDR (3 times): 2013, 2014, 2015
+lmonade: scientific software distribution (3 times): 2013, 2014, 2015
+MariaDB (3 times): 2013, 2014, 2015
+Open Source Robotics Foundation (3 times): 2013, 2014, 2015
+RouteFlow (3 times): 2013, 2014, 2015
+Systers, an Anita Borg Institute Community (3 times): 2013, 2014, 2015
+BuildmLearn (3 times): 2014, 2015, 2016
+Beam Community (3 times): 2016, 2017, 2018
+Classical Language Toolkit (3 times): 2016, 2017, 2018
+Fedora Project (3 times): 2016, 2017, 2018
+Free and Open Source Silicon Foundation (3 times): 2016, 2018, 2022
+AboutCode (3 times): 2017, 2021, 2022
+AOSSIE - Australian Open Source Software Innovation and Education (3 times): 2017, 2018, 2019
+Apertus Association (3 times): 2017, 2018, 2022
+appleseedhq (3 times): 2017, 2018, 2019
+BeagleBoard.org Foundation (3 times): 2017, 2018, 2021
+CLiPS, University of Antwerp (3 times): 2017, 2018, 2019
+FOSSology (3 times): 2018, 2021, 2022
+Android Graphics Tools Team (3 times): 2019, 2020, 2021
+apertus° Association (3 times): 2019, 2020, 2021
+CHAOSS (3 times): 2019, 2020, 2022
+AOSSIE (3 times): 2020, 2021, 2022
+Casbin (3 times): 2020, 2021, 2022
+CRIU (3 times): 2020, 2021, 2022
+Dart (3 times): 2020, 2021, 2022
+Berkman Center at Harvard University (2 times): 2009, 2010
+Geeklog (2 times): 2009, 2010
+Go OpenOffice (2 times): 2009, 2010
+Joomla! (2 times): 2009, 2012
+Maemo Community (2 times): 2009, 2010
+MINIX 3 (2 times): 2009, 2012
+NESCent - National Evolutionary Synthesis Center (2 times): 2009, 2010
+NetSurf (2 times): 2009, 2014
+OAR (2 times): 2009, 2010
+OMII-UK (2 times): 2009, 2010
+OpenAFS (2 times): 2009, 2010
+openSUSE Project (2 times): 2009, 2011
+Oregon State University Open Source Lab (2 times): 2009, 2010
+Pardus (2 times): 2009, 2010
+Pidgin, Finch and libpurple (2 times): 2009, 2010
+Sakai Foundation (2 times): 2009, 2010
+Scribus Team (2 times): 2009, 2011
+SharpDevelop (2 times): 2009, 2010
+SIP Communicator (2 times): 2009, 2010
+SWIG (2 times): 2009, 2012
+Systers: Women in Computing (2 times): 2009, 2010
+The Asterisk Project (2 times): 2009, 2010
+The FreeBSD Project (2 times): 2009, 2010
+Thousand Parsec (2 times): 2009, 2010
+X.Org (2 times): 2009, 2010
+Xiph.Org Foundation (2 times): 2009, 2015
+XMMS2 (2 times): 2009, 2010
+DocBook Project (2 times): 2010, 2012
+DuraSpace (2 times): 2010, 2011
+FreedroidRPG (2 times): 2010, 2011
+GCC, the GNU Compiler Collection (2 times): 2010, 2011
+Mapnik (2 times): 2010, 2011
+Selenium (2 times): 2010, 2011
+StatusNet (2 times): 2010, 2011
+Sunlight Labs (2 times): 2010, 2011
+Tcl/Tk Community (2 times): 2010, 2011
+Climate Code Foundation (2 times): 2011, 2012
+Connexions (2 times): 2011, 2012
+Digital Mars (2 times): 2011, 2012
+Electronic Frontier Foundation/The Tor Project (2 times): 2011, 2012
+Grassroots DICOM (2 times): 2011, 2012
+Hedgewars Project (2 times): 2011, 2012
+Interface Ecology Lab @ Texas A&M University (2 times): 2011, 2012
+National Evolutionary Synthesis Center (NESCent) (2 times): 2011, 2013
+OpenIntents (2 times): 2011, 2012
+Orange – Data Mining Fruitful & Fun (2 times): 2011, 2012
+QEMU.org (2 times): 2011, 2013
+Sakai Project (2 times): 2011, 2012
+Scilab (2 times): 2011, 2012
+The Gambit Project (2 times): 2011, 2012
+The LLVM Compiler Infrastructure (2 times): 2011, 2012
+Tianocore (2 times): 2011, 2012
+Visualization Toolkit (VTK) (2 times): 2011, 2014
+abiword (2 times): 2012, 2013
+Ankur India (2 times): 2012, 2013
+Dept. of Biomedical Informatics, Emory University (2 times): 2012, 2013
+ESUG (European Smalltalk User Group) (2 times): 2012, 2013
+JRuby (2 times): 2012, 2013
+OGRE (Object-Oriented Graphics Rendering Engine) (2 times): 2012, 2013
+OWASP Foundation (2 times): 2012, 2014
+PulseAudio (2 times): 2012, 2013
+SimpleCV (2 times): 2012, 2013
+Twitter (2 times): 2012, 2014
+XBMC Foundation (2 times): 2012, 2015
+AerospaceResearch.Net (2 times): 2013, 2014
+Crypto Stick (2 times): 2013, 2014
+Distributed and Unified Numerics Environment (DUNE) (2 times): 2013, 2016
+GNU Radio (2 times): 2013, 2014
+Health Information Systems Programme (2 times): 2013, 2014
+Italian Mars Society (2 times): 2013, 2014
+Joomla! (Open Source Matters) (2 times): 2013, 2014
+Linux Trace Toolkit next generation project (LTTng) (2 times): 2013, 2014
+LyX – The Document Processor (2 times): 2013, 2014
+mlpack: scalable C++ machine learning library (2 times): 2013, 2014
+Monkey Project (2 times): 2013, 2014
+MuseScore (2 times): 2013, 2014
+Netfilter Project (2 times): 2013, 2014
+Network Time Foundation (2 times): 2013, 2015
+PLASMA @ UMass (2 times): 2013, 2015
+PRISM Model Checker (2 times): 2013, 2014
+Public Laboratory for Open Technology and Science (2 times): 2013, 2014
+RoboComp (2 times): 2013, 2015
+Ruby Science Foundation (2 times): 2013, 2015
+Scaffold Hunter (2 times): 2013, 2014
+Steel Bank Common Lisp (2 times): 2013, 2014
+SuperTuxKart (2 times): 2013, 2014
+Swathanthra Malayalam Computing (2 times): 2013, 2014
+The CGAL Project (2 times): 2013, 2014
+The Privly Foundation (2 times): 2013, 2014
+ThinkUp (2 times): 2013, 2014
+TimVideos.us (2 times): 2013, 2014
+Wikimedia (2 times): 2013, 2014
+appleseed (2 times): 2014, 2020
+CCExtractor development (2 times): 2014, 2015
+Institute for Artificial Intelligence (2 times): 2014, 2015
+LabLua (2 times): 2014, 2015
+OpenKeychain (OpenPGP for Android) (2 times): 2014, 2015
+QEMU (2 times): 2014, 2015
+strace (2 times): 2014, 2015
+Subsurface (2 times): 2014, 2015
+The OpenBSD Foundation (2 times): 2014, 2015
+The OpenCog Foundation (2 times): 2014, 2015
+The Processing Foundation (2 times): 2014, 2015
+The STE||AR Group (2 times): 2014, 2015
+The syslog-ng project (2 times): 2014, 2015
+WSO2 (2 times): 2014, 2015
+Discourse (2 times): 2016, 2017
+Bazel (2 times): 2017, 2019
+BeeWare Project (2 times): 2017, 2018
+Conversations.im (2 times): 2017, 2018
+Canadian Centre for Computational Genomics (2 times): 2018, 2020
+CiviCRM LLC (2 times): 2018, 2021
+Developers Italia (2 times): 2018, 2019
+Digital Impact Alliance (2 times): 2018, 2019
+Elastic (2 times): 2018, 2020
+AboutCode.org (2 times): 2019, 2020
+Boost C++ (2 times): 2019, 2020
+Accord Project (2 times): 2020, 2021
+caMicroscope (2 times): 2020, 2021
+Continuous Delivery Foundation (2 times): 2020, 2021
+Digital Impact Alliance (DIAL) at UN Foundation (2 times): 2020, 2021
+AFLplusplus (2 times): 2021, 2022
+AnkiDroid (2 times): 2021, 2022
+CNCF (2 times): 2021, 2022
+Fortran-lang (2 times): 2021, 2022
+Association Gephi (1 times): 2009
+Atheme.org (1 times): 2009
+BZFlag (1 times): 2009
+Center for the Study of Complex Systems, Univ of Michigan (1 times): 2009
+Comprehensive C Archive Network (1 times): 2009
+DSpace Foundation (1 times): 2009
+ES Operating System (1 times): 2009
+Fedora Project & JBoss.org (Red Hat) (1 times): 2009
+Fiji (1 times): 2009
+Free Software Initiative of Japan (1 times): 2009
+GCC (1 times): 2009
+GenMAPP (1 times): 2009
+Gentoo (1 times): 2009
+Git Development Community (1 times): 2009
+Google's Open Source Programs Office (1 times): 2009
+Hackystat (1 times): 2009
+Hugin/Panotools (1 times): 2009
+Jato (1 times): 2009
+Mercurial (a member of the Software Freedom Conservancy) (1 times): 2009
+MetaBrainz Foundation (1 times): 2009
+Mifos (1 times): 2009
+Mozilla Project (1 times): 2009
+MySQL (1 times): 2009
+National Center for Supercomputing Applications (1 times): 2009
+Native Client (1 times): 2009
+NTP Project (1 times): 2009
+OGRE (1 times): 2009
+Open64 (1 times): 2009
+OpenChange (a project of the Free Software Conservancy) (1 times): 2009
+OpenCog sponsored by the Singularity Institute for Artificial Intelligence (1 times): 2009
+OpenSSH (1 times): 2009
+PHP (1 times): 2009
+PKIF project (1 times): 2009
+Ptolemy Project, University of California, Berkeley (1 times): 2009
+R Foundation for Statistical Computing (1 times): 2009
+Sahana (1 times): 2009
+Scilab/Digiteo Foundation (1 times): 2009
+SCons next-generation build system (1 times): 2009
+Subversion (1 times): 2009
+Sugar Labs educational platform (a member of the SFC) (1 times): 2009
+Sunlight Foundation (1 times): 2009
+Tcl Community Association (1 times): 2009
+The Apache Software Foundation (1 times): 2009
+The Apertium Project (1 times): 2009
+The Aqsis Team (1 times): 2009
+The Electronic Frontier Foundation/The Tor Project (1 times): 2009
+The Enlightenment Project (1 times): 2009
+The Freenet Project (1 times): 2009
+The NetBSD Project (1 times): 2009
+The Syslinux Project (1 times): 2009
+TikiWiki CMS/Groupware (1 times): 2009
+TurboGears (1 times): 2009
+WinLibre (1 times): 2009
+Xelerance Corporation (1 times): 2009
+BigBlueButton (1 times): 2010
+Dojo Foundation (1 times): 2010
+Dreamwidth Studios (1 times): 2010
+European Smalltalk User Group (ESUG) (1 times): 2010
+European Space Agency, The Advanced Concepts Team (1 times): 2010
+Expert Labs (1 times): 2010
+Facebook (1 times): 2010
+GenMAPP, Cytoscape, WikiPathways & Reactome (1 times): 2010
+Gephi NGO (1 times): 2010
+GNU Image Manipulation Program - GIMP (1 times): 2010
+Google Caja (1 times): 2010
+Grameen Foundation (1 times): 2010
+Hugin and panotools (1 times): 2010
+LXDE Project (1 times): 2010
+Marine Biological Laboratory Biodiversity Informatics Group-Encyclopedia of Life Project (1 times): 2010
+Mercurial Distributed Version Control System (1 times): 2010
+MINIX 3 Group at the VU (1 times): 2010
+Mixxx Digital DJ (1 times): 2010
+Natural User Interface Group (NUI Group) (1 times): 2010
+Open Source Computer Vision Library (1 times): 2010
+OPeNDAP, Inc. (1 times): 2010
+OpenInkpot project (1 times): 2010
+OpenNebula (1 times): 2010
+Opticks (1 times): 2010
+PLSE at UW (1 times): 2010
+PostgreSQL (1 times): 2010
+Princeton Center for Information Technology Policy (1 times): 2010
+Puppet (Reductive Labs) (1 times): 2010
+QEMU development team (1 times): 2010
+Scilab Consortium/Digiteo Foundation (1 times): 2010
+Tahoe-LAFS (1 times): 2010
+The GNU Project (1 times): 2010
+The Mono Project (1 times): 2010
+The NTP Forum (1 times): 2010
+The Tor Project/Electronic Frontier Foundation (1 times): 2010
+Ubuntu (1 times): 2010
+Ushahidi (1 times): 2010
+xen.org (1 times): 2010
+YafaRay (Yet Another Free Raytracer) (1 times): 2010
+École Polytechnique Fédérale de Lausanne, Scala team (1 times): 2010
+Astrometry.net (1 times): 2011
+Atomic Blue (1 times): 2011
+Center for the Study of Complex Systems, University of Michigan (1 times): 2011
+CERN Virtual Machine (CernVM) (1 times): 2011
+CMUSphinx Speech Recognition Toolkit (1 times): 2011
+darktable (1 times): 2011
+DokuWiki (1 times): 2011
+Ecole Polytechnique Federale de Lausanne, Scala Team (1 times): 2011
+Elgg (1 times): 2011
+Evergreen Project (1 times): 2011
+FFmpeg / Libav (1 times): 2011
+FiberCorps (1 times): 2011
+fluxbox (1 times): 2011
+Freeseer video recording and streaming suite (1 times): 2011
+GNOME Project (1 times): 2011
+GnuCash Free Accounting Software (1 times): 2011
+Helsinki Institute for Information Technology (1 times): 2011
+Hugin - Panorama photo stitcher (1 times): 2011
+Inclusive Design Institute (IDI) (1 times): 2011
+Isabelle (1 times): 2011
+Jato VM (1 times): 2011
+Jitsi (SIP Communicator), Kamailio and SEMS (1 times): 2011
+K-9 Mail (1 times): 2011
+Komodo OpenLab Inc. (1 times): 2011
+LanguageTool (1 times): 2011
+Learning Unlimited (1 times): 2011
+Marine Biological Laboratory - Center for Library and Informatics (1 times): 2011
+MINIX 3 Research group at the Vrije Universiteit in Amsterdam, The Netherlands (1 times): 2011
+Mixxx (1 times): 2011
+MoinMoin (1 times): 2011
+National Resource for Network Biology (GenMAPP, Cytoscape and WikiPathways) (1 times): 2011
+NTP (1 times): 2011
+OGRE - Open Source 3D Graphics Engine (1 times): 2011
+OpenICC Color Management (1 times): 2011
+Openwall Project (1 times): 2011
+PostgreSQL Global Development Group (1 times): 2011
+ReactOS (1 times): 2011
+Sencha Labs (1 times): 2011
+SETI Institute (1 times): 2011
+Shogun Machine Learning Toolbox (Technical University Berlin / Max Planck Campus Tübingen) (1 times): 2011
+The Battle for Wesnoth (1 times): 2011
+Theoretical Biophysics @ Humboldt University (1 times): 2011
+Universal Subtitles (1 times): 2011
+Unknown Horizons (1 times): 2011
+Wine (1 times): 2011
+Xen.org (1 times): 2011
+XMMS2 - X-platform Music Multiplexing System 2 (1 times): 2011
+Artica ST ( Pandora FMS ) (1 times): 2012
+Battle For Wesnoth (1 times): 2012
+Berkman Center for Internet & Society at Harvard University (1 times): 2012
+biographer (1 times): 2012
+Bloomington, IN (1 times): 2012
+BOINC project, University of California, Berkeley (1 times): 2012
+Clojure/dev (1 times): 2012
+CMUSphinx (1 times): 2012
+Crowdsourcing Biology (1 times): 2012
+DBpedia Spotlight (1 times): 2012
+Differ (1 times): 2012
+e-cidadania (1 times): 2012
+Evergreen (1 times): 2012
+Formal Systems Laboratory at UIUC (1 times): 2012
+Freeseer recording and streaming suite (1 times): 2012
+GIMP (1 times): 2012
+iPXE (1 times): 2012
+Komodo OpenLab (1 times): 2012
+Learning Unlimited, Inc. (1 times): 2012
+Libav (1 times): 2012
+Measurement Lab (1 times): 2012
+Metalink (1 times): 2012
+MIT Center for Mobile Learning @ The Media Lab (1 times): 2012
+Monkey HTTP Daemon (1 times): 2012
+mySociety (1 times): 2012
+National Evolutionary Synthesis Center (1 times): 2012
+Network Time (1 times): 2012
+New Visions for Public Schools (1 times): 2012
+Ninux.org (1 times): 2012
+Opencast Matterhorn (1 times): 2012
+OpenCog Foundation (1 times): 2012
+OpenFlowHub (1 times): 2012
+PacketFence (1 times): 2012
+Puppet Labs (1 times): 2012
+R project for statistical computing (1 times): 2012
+RooStats (1 times): 2012
+Scribus (1 times): 2012
+SilverStripe (1 times): 2012
+Statistics Online Computational Resource (1 times): 2012
+Stellarium (1 times): 2012
+Systers (1 times): 2012
+The Outercurve Foundation (1 times): 2012
+Unknown Horizons and FIFE (1 times): 2012
+Wine (a project of Software Freedom Conservancy) (1 times): 2012
+Bioconductor open source software for bioinformatics (1 times): 2013
+Bloomington, IN, USA (1 times): 2013
+Cesium community (1 times): 2013
+Crowdsourcing Biology at the Scripps Research Institute (1 times): 2013
+Drizzle Database (1 times): 2013
+Funf.org (1 times): 2013
+Iowa Flood Center (1 times): 2013
+MacPorts (1 times): 2013
+Maryland Institute for Technology in the Humanities (1 times): 2013
+Measurement Lab (M-Lab) (1 times): 2013
+Mercurial (1 times): 2013
+Mifos (The Community for Open Source Microfinance) (1 times): 2013
+MLton.org (1 times): 2013
+National Library of the Czech Republic (1 times): 2013
+Open Networking Lab (1 times): 2013
+OWASP (1 times): 2013
+PaGMO / PyGMO (1 times): 2013
+PiTiVi video editor (1 times): 2013
+Quagga @ OpenSourceRouting / ISC (1 times): 2013
+R Project for statistical Computing (1 times): 2013
+The Centre for Computational Medicine (1 times): 2013
+The Open Motion Planning Library (1 times): 2013
+Tor (1 times): 2013
+twitter (1 times): 2013
+Wine Project (1 times): 2013
+Wireshark (1 times): 2013
+World Wide Web Consortium (W3C) (1 times): 2013
+XBMC (1 times): 2013
+Arches Project (1 times): 2014
+Association Tatoeba (1 times): 2014
+Bio4j (1 times): 2014
+BioJavaScript (1 times): 2014
+Bookie (1 times): 2014
+BumbleBee Autonomous Underwater Vehicle (BBAUV) (1 times): 2014
+Catrobat (formerly Catroid Project) (1 times): 2014
+Centre for Computational Medicine, SickKids Research Institute (1 times): 2014
+CodeCombat (1 times): 2014
+CodeMirror (1 times): 2014
+Dr. Memory (1 times): 2014
+Flowgrammable (1 times): 2014
+Frenetic (1 times): 2014
+Gambit: Software Tools for Game Theory (1 times): 2014
+Ganglia (1 times): 2014
+GNU Octave (1 times): 2014
+Grameen Foundation - MOTECH (1 times): 2014
+Groovy Community (1 times): 2014
+Jitsi (1 times): 2014
+jMonkeyEngine (1 times): 2014
+KolibriOS Project Team (1 times): 2014
+Laboratory for Cosmological Data Mining (1 times): 2014
+LEAP Encryption Access Project (1 times): 2014
+Linaro (1 times): 2014
+Mifos Initiative (1 times): 2014
+Open Education Resource Foundation (1 times): 2014
+Open Motion Planning Library (1 times): 2014
+OSv (1 times): 2014
+oVirt (1 times): 2014
+Project Tox (1 times): 2014
+Ruby Science Foundation (SciRuby) (1 times): 2014
+Software Freedom Conservancy, Inc. (1 times): 2014
+Stratosphere Project (1 times): 2014
+SyncDiff(erent) (1 times): 2014
+TEAMMATES Project @ National University of Singapore (1 times): 2014
+The Julia Language (1 times): 2014
+The OpenStack Foundation (1 times): 2014
+The Tor Project and EFF (1 times): 2014
+Xen Project (1 times): 2014
+Africa Soil Information Service (1 times): 2015
+Bika Open Source LIMS Collective (1 times): 2015
+CentOS Project (1 times): 2015
+Ceph Storage (1 times): 2015
+Cesium Community (1 times): 2015
+Department of Biomedical Informatics, Stony Brook University (1 times): 2015
+Encyclopedia of Life (1 times): 2015
+Foundation for Learning Equality (1 times): 2015
+GitHub (1 times): 2015
+Global Alliance for Genomics & Health (1 times): 2015
+GNU Mailman (1 times): 2015
+Google Kubernetes (1 times): 2015
+HPCC Systems® (1 times): 2015
+Interactive Spaces (1 times): 2015
+IP-over-P2P Project (1 times): 2015
+JdeRobot - Universidad Rey Juan Carlos (1 times): 2015
+jQuery Foundation (1 times): 2015
+lowRISC (1 times): 2015
+MBDyn, Department of Aerospace Engineering at the Polytechnic University of Milan (1 times): 2015
+MEDES-IMPS (1 times): 2015
+MinnowBoard Project (1 times): 2015
+MIT Media Lab (1 times): 2015
+NumFOCUS (1 times): 2015
+OncoBlocks (1 times): 2015
+P2PSP.org (1 times): 2015
+PaGMO / PyKEP (1 times): 2015
+Pencil Code Foundation (1 times): 2015
+Portable Native Client (1 times): 2015
+Privly Foundation (1 times): 2015
+Red Hen Lab (1 times): 2015
+RIOT (1 times): 2015
+Rspamd spam filtering system (1 times): 2015
+Ruby (1 times): 2015
+Saros (1 times): 2015
+Scilab Enterprises (1 times): 2015
+Sustainable Computing Research Group ( SCoRe ) (1 times): 2015
+TARDIS SN (1 times): 2015
+TEAMMATES @ National University of Singapore (1 times): 2015
+The Visualization Toolkit (1 times): 2015
+Tox (1 times): 2015
+University of Nebraska - Helikar Lab (1 times): 2015
+AOSSIE - The Australian National University's Open-Source Software Innovation and Education (1 times): 2016
+ArchC (1 times): 2016
+Berkman Center for Internet and Society (1 times): 2016
+BioJS (1 times): 2016
+Canadian Centre for Computational Genomics (C3G) - Montreal node (1 times): 2016
+Celluloid (1 times): 2016
+CVXPY (1 times): 2016
+D Foundation (1 times): 2016
+dbpediaspotlight (1 times): 2016
+FOSDEM VZW (1 times): 2016
+Gambit - Software Tools for Game Theory (1 times): 2016
+Genes, Genomes and Variation (1 times): 2016
+Babel (1 times): 2017
+Berkman Klein Center for Internet and Society at Harvard University (1 times): 2017
+Cadasta (1 times): 2017
+CMU Sphinx (1 times): 2017
+Eclipse Vert.x (1 times): 2017
+Elm Software Foundation (1 times): 2017
+Environmental Data And Governance Initiative (1 times): 2017
+FOSDEM (1 times): 2017
+3DTK (1 times): 2018
+52° North Initiative for Geospatial Open Source Software GmbH (1 times): 2018
+Berkman Klein Center for Internet & Society at Harvard University (1 times): 2018
+Center for Research In Open Source Software (CROSS) at UC Santa Cruz (1 times): 2018
+CHAOSS: Community Health Analytics Open Source Software (1 times): 2018
+Cuneiform Digital Library Initiative (1 times): 2018
+Earth Science Information Partners (ESIP) (1 times): 2018
+Eta (1 times): 2018
+API Client Tools at Google (1 times): 2019
+Ardupilot.org (1 times): 2019
+Berkman Klein Center for Internet and Society (1 times): 2019
+Buildroot (1 times): 2019
+Canadian Center for Computational Genomics (1 times): 2019
+CBMI@UTHSC (1 times): 2019
+Center for Research in Open Source Software at UC Santa Cruz (1 times): 2019
+CGAL project (1 times): 2019
+CRIU (Checkpoint/Restore in User-space) (1 times): 2019
+D Programming Language (1 times): 2019
+Earth Science Information Partners (1 times): 2019
+52° North GmbH (1 times): 2020
+Academy Software Foundation (ASWF) (1 times): 2020
+afl++ (1 times): 2020
+AnitaB.org Open Source (1 times): 2020
+Arduino (1 times): 2020
+BioGears (1 times): 2020
+Ceph Foundation (1 times): 2020
+Embox (1 times): 2020
+52°North GmbH (1 times): 2021
+Bench-Routes (1 times): 2021
+CASTOR (1 times): 2021
+Center for Research in Open Source Software, UC Santa Cruz (1 times): 2021
+CHAOSS Project (1 times): 2021
+Cilium (1 times): 2021
+DeepPavlov (1 times): 2021
+Department of Biomedical Informatics (BMI), Emory University School of Medicine (1 times): 2021
+Elm Tooling (1 times): 2021
+FrameNet Brasil (UFJF) (1 times): 2021
+52°North Spatial Information Research GmbH (1 times): 2022
+Academy Software Foundation (1 times): 2022
+Center for Translational Data Science (1 times): 2022
+checkstyle (1 times): 2022
+CHIPS Alliance (1 times): 2022
+Department of Biomedical Informatics, Emory University (1 times): 2022
+Drupal Association (1 times): 2022
+Electron (1 times): 2022
+Flashrom (1 times): 2022
+Forschungszentrum Jülich (1 times): 2022
+FreeType (1 times): 2022
+FRRouting (1 times): 2022
+Genome Assembly and Annotation (1 times): 2022
+GeomScale (1 times): 2022
